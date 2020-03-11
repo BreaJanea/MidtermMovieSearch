@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MidtermTest", "MidtermTest\MidtermTest.csproj", "{9FBCB376-F58E-4676-AB55-CC999E2E0E7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Midterm", "Midterm\Midterm.csproj", "{EF78AD97-5DEB-449F-949E-EEA6EF8E0A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBCB376-F58E-4676-AB55-CC999E2E0E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBCB376-F58E-4676-AB55-CC999E2E0E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBCB376-F58E-4676-AB55-CC999E2E0E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBCB376-F58E-4676-AB55-CC999E2E0E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF78AD97-5DEB-449F-949E-EEA6EF8E0A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF78AD97-5DEB-449F-949E-EEA6EF8E0A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF78AD97-5DEB-449F-949E-EEA6EF8E0A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF78AD97-5DEB-449F-949E-EEA6EF8E0A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2082D193-F027-4433-AC5B-ACB5DBC630DB}
+	EndGlobalSection
+EndGlobal
